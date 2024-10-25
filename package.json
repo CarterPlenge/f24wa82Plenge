@@ -1,0 +1,17 @@
+{
+  "name": "f24wa82plenge",
+  "version": "1.0.0",
+  "description": "Assignment 9",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.7",
+    "express": "^4.21.1",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3"
+  }
+}
