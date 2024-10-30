@@ -1,9 +1,9 @@
-var express = require('Carter Matthew Plenge');
+var express = require('express');
 var router = express.Router();
 
-/* GET home page. */
+/* Get mydata. */
 router.get('/', function(req, res, next) {
-  res.render('mydata', { title: 'Express' });
+  res.render('mydata', { title: 'Carter Matthew Plenge' });
 });
 
 module.exports = router;
